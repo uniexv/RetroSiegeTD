@@ -5,7 +5,7 @@
 #include "../managers/enemymanager.hpp"
 #include "../managers/towermanager.hpp"
 #include "../managers/particlemanager.hpp"
-#include "../utility/debugUtil.hpp"
+#include "../utility/debugutil.hpp"
 #include "../structs/particle.hpp"
 #include <unordered_map>
 #include <cassert>

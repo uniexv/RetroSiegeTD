@@ -4,7 +4,7 @@
 #include "sprites.hpp"
 #include "../managers/bulletmanager.hpp"
 #include "../managers/enemymanager.hpp"
-#include "../utility/debugUtil.hpp"
+#include "../utility/debugutil.hpp"
 #include <cassert>
 
 namespace Enemies

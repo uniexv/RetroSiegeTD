@@ -1,5 +1,5 @@
 #include <cstddef>
-#include "../utility/debugUtil.hpp"
+#include "../utility/debugutil.hpp"
 #include "../namespaces/loading.hpp"
 #include "../namespaces/music.hpp"
 #include "../namespaces/sprites.hpp"

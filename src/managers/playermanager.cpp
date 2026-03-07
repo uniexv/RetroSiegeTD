@@ -4,7 +4,7 @@
 #include "../managers/enemymanager.hpp"
 #include "../managers/wavemanager.hpp"
 #include "../managers/bulletmanager.hpp"
-#include "../utility/debugUtil.hpp"
+#include "../utility/debugutil.hpp"
 #include <cassert>
 
 void PlayerManager::OnGameOver()

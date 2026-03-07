@@ -1,7 +1,7 @@
 #include "enemymanager.hpp"
 #include "tilemanager.hpp"
 #include "bulletmanager.hpp"
-#include "../utility/debugUtil.hpp"
+#include "../utility/debugutil.hpp"
 #include "../namespaces/settings.hpp"
 #include "../namespaces/basics.hpp"
 #include "../managers/psmanager.hpp"
