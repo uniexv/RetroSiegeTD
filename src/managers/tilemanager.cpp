@@ -3,7 +3,7 @@
 #include <cassert>
 #include "../namespaces/sprites.hpp"
 #include "../namespaces/settings.hpp"
-#include "../utility/debugUtil.hpp"
+#include "../utility/debugutil.hpp"
 #include "tilemanager.hpp"
 
 bool TileManager::IsTileHovered(Tile &tile)

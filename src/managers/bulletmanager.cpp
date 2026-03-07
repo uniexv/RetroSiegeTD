@@ -1,7 +1,7 @@
 #include "bulletmanager.hpp"
 #include "../namespaces/sprites.hpp"
 #include "../namespaces/basics.hpp"
-#include "../utility/debugUtil.hpp"
+#include "../utility/debugutil.hpp"
 #include <raylib.h>
 #include <cmath>
 #include <algorithm>
