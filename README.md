@@ -5,5 +5,5 @@ Thanks to the original author of the game [DzikaMandarynka](https://github.com/D
 ## How to compile:
 1. run `./build_cmake.sh`
 2. `cd build`
-3. `make ..`
+3. `make`
 4. run `build/RetroSiegeTD` or `build/RetroSiegeTD.exe` (depending on your platform)
