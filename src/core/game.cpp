@@ -32,32 +32,6 @@ void Game::UpdateDebug()
     {
         StartGame();
     }
-    if (IsKeyPressed(KEY_M))
-    {
-        mgr_ps.AddMoney(3000);
-    }
-    if (IsKeyPressed(KEY_F3))
-    {
-        Settings::g_debugView = !Settings::g_debugView;
-    }
-    if (IsKeyPressed(KEY_F4))
-    {
-        if (m_gameState != GameState::Started)
-        {
-            return;
-        }
-
-        mgr_enemy.SpawnEnemy(EnemyType::Summoner);
-    }
-    if (IsKeyPressed(KEY_F5))
-    {
-        if (m_gameState != GameState::Started)
-        {
-            return;
-        }
-
-        mgr_enemy.SpawnEnemy(EnemyType::SkeletonKing);
-    }
 }
 void Game::Update()
 {
